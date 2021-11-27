@@ -12,3 +12,11 @@ text-align: center;
     float:right;
     border: 1px  solid white;
 }
+.restart{
+    padding:5px;
+    width:100px;
+}
+.developer{
+    color: white;
+    position: bottom;
+}
